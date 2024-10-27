@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/subashchandrabose-963963/My-React-App.git/static/css/main.e6c13ad2.css",
+    "main.js": "/subashchandrabose-963963/My-React-App.git/static/js/main.317428c9.js",
+    "static/js/453.56f46472.chunk.js": "/subashchandrabose-963963/My-React-App.git/static/js/453.56f46472.chunk.js",
+    "index.html": "/subashchandrabose-963963/My-React-App.git/index.html",
+    "main.e6c13ad2.css.map": "/subashchandrabose-963963/My-React-App.git/static/css/main.e6c13ad2.css.map",
+    "main.317428c9.js.map": "/subashchandrabose-963963/My-React-App.git/static/js/main.317428c9.js.map",
+    "453.56f46472.chunk.js.map": "/subashchandrabose-963963/My-React-App.git/static/js/453.56f46472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.317428c9.js"
+  ]
+}
